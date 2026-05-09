@@ -1,3 +1,19 @@
+# ⚠️ ARCHIVED — projekt przeniesiony
+
+Ten projekt został scalony z `MK8423417/BITAPP` w jeden monorepo.
+
+**Aktualne miejsce pracy:** https://github.com/MK8423417/BITAPP
+
+Kod tego repo żyje w `apps/crm/` na nowym repo. Historia git BITAPP zachowana przez `git mv` (sprawdź `git log apps/crm/...` na nowym repo). Historia tego repo zostaje czytelna tutaj — dlatego archiwizujemy zamiast usuwać.
+
+Backup tag stanu pre-restruktura na nowym repo: `pre-monorepo-backup`.
+
+To repo jest read-only archiwum. Nie pushuj tu nic. Nowe zmiany rób na MK8423417/BITAPP zgodnie z `WORKFLOW.md`.
+
+---
+
+(stara treść README poniżej)
+
 <div align="center">
 <img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
 </div>
